@@ -207,3 +207,6 @@ int main(void){
 	}
 
 }
+
+
+// Alteração 
