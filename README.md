@@ -1,4 +1,4 @@
-# Repositório do Desafio de primeiro Repositório
+# Repositório do Desafio de Primeiro Repositório da DIO
 Repositório criado para o deafio do projeto
 
 
