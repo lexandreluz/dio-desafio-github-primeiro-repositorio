@@ -1,5 +1,5 @@
 # Repositório do Desafio de primeiro Repositório
-Desafio pde Projeto sobre o Git/GitHub
+Repositório criado para o deafio do projeto
 
 
 ## Links Úteis
