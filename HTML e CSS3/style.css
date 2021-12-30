@@ -1,0 +1,61 @@
+body {
+	background: #fff;
+	font-family: Verdana, Arial;
+	max-width: 70%;
+	margin: auto;
+}
+
+#titulo{
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: underline;
+	color: grey;
+}
+
+#titulo, #subtitle, #post{
+	color: darkslategrey;
+}
+
+#foto{
+	border-radius: 50px;
+	border: 2px;
+}
+
+#post{
+	font: 16px;
+	font-style: italic;
+	margin: 0;
+	margin-bottom: 15px;
+}
+
+#art{
+	background: white;
+	padding: 10px;
+	border: 1px solid #000;
+	margin-bottom: 15px;
+	border-radius: 20px;
+}
+
+#post_content{
+	margin: 0;
+	margin-bottom: 15px;
+	text-align: justify;
+}
+
+#post_img{
+	max-width: 90%;
+	margin: auto;
+	margin-left: 50px;
+}
+
+#contato_list {
+	list-style-type: none;
+	padding-left: 15px;
+}
+
+#contato_list li a{
+	color: grey;
+}
